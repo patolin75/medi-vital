@@ -1,0 +1,8 @@
+{
+  "name": "MediVital",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ed01a0da"
+}
